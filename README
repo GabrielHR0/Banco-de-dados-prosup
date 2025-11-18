@@ -1,0 +1,18 @@
+Execução de Migrations e Seeds
+
+Scripts Disponíveis
+
+run_migrations_win.bat - Executa as migrations do banco de dados
+
+run_seeds_win.bat - Executa os seeds do banco de dados
+
+Como Usar
+Executar individualmente:
+
+run_migrations_win.bat
+run_seeds_win.bat
+
+ou
+
+.\run_migrations_win.bat
+.\run_seeds_win.bat
